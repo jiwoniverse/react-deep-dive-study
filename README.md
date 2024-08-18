@@ -17,10 +17,72 @@
 
 ## 👥 스터디원
 
-| [![신현수](https://avatars.githubusercontent.com/u/58941022?v=4)](https://github.com/scato3) | [![박지원](https://avatars.githubusercontent.com/u/124491335?v=4)](https://github.com/xoxojw) | [![이상희](https://avatars.githubusercontent.com/u/80993302?v=4)](https://github.com/sanghee01) | [![최원석](https://avatars.githubusercontent.com/u/124907958?v=4)](https://github.com/salkizzang) |
-| :------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: |
-|                                          **신현수**                                          |                                          **박지원**                                           |                                           **이상희**                                            |                                            **최원석**                                             |
+<table>
+  <tr>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/58941022?v=4" width="120px" height="120px"/>
+    </td>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/124491335?v=4" width="120px" height="120px"/>
+    </td>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/80993302?v=4" width="120px" height="120px"/>
+    </td>
+     <td>
+      <img src="https://avatars.githubusercontent.com/u/124907958?v=4" width="120px" height="120px"/>
+    </td>
+  </tr>
 
-| [![박하영](https://avatars.githubusercontent.com/u/109210054?v=4)](https://github.com/hypnotes) | [![YHB](https://avatars.githubusercontent.com/u/72931375?v=4)](https://github.com/hov-i) | [![Jin Baek](https://avatars.githubusercontent.com/u/108963465?v=4)](https://github.com/jinbaek78) |     |
-| :---------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: | :-: |
-|                                           **박하영**                                            |                                         **YHB**                                          |                                            **Jin Baek**                                            |     |
+  <tr>
+    <td>
+      <a href="https://github.com/scato3">
+        신현수
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/xoxojw">
+        박지원
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/guesung">
+        이상희
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/salkizzang">
+        최원석
+      </a>
+    </td>
+  </tr>
+    <tr>  
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/108963465?v=4" width="120px" height="120px"/>
+    </td>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/109210054?v=4" width="120px" height="120px"/>
+    </td>
+     <td>
+      <img src="https://avatars.githubusercontent.com/u/72931375?v=4" width="120px" height="120px"/>
+    </td>
+      <td></td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/jinbaek78">
+        JinBaek
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/hypnotes">
+        박하영
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/hov-i">
+        hov-i
+      </a>
+    </td>
+    <td></td>
+  </tr>
+  </table>
