@@ -1,7 +1,7 @@
 # React-Deep-Dive-Study
 
 🎯 진행 방식
-리액트 딥다이브의 책을 전체적으로 학습합니다.
+리액트 딥다이브의 책을 1, 2. 3, 4, 5, 7, 10, 11, 14장을 학습합니다
 
 발표는 매주 일요일 20시30분에 온라인으로 진행합니다.
 
@@ -70,7 +70,7 @@
   <tr>
     <td>
       <a href="https://github.com/jinbaek78">
-        JinBaek
+        백진명
       </a>
     </td>
     <td>
@@ -80,7 +80,7 @@
     </td>
     <td>
       <a href="https://github.com/hov-i">
-        hov-i
+        윤홍비
       </a>
     </td>
     <td></td>
