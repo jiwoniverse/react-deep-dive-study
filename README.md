@@ -1,3 +1,5 @@
+## ![image](https://github.com/Front-End-Book-Study/Modern-React-Deep-Dive/assets/51049245/15424391-49c1-4747-b72d-523cf27472bb)
+
 # React-Deep-Dive-Study
 
 🎯 진행 방식
