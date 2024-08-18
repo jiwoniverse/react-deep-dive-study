@@ -47,7 +47,7 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/guesung">
+      <a href="https://github.com/sanghee01">
         이상희
       </a>
     </td>
